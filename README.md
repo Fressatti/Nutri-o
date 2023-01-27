@@ -1,4 +1,4 @@
-Projeto de Cálculo de Taxa Metabólica Basal e IMC em Java
+#Projeto de Cálculo de Taxa Metabólica Basal e IMC em Java #
 Este projeto tem como objetivo calcular a Taxa Metabólica Basal (TMB) e o Índice de Massa Corporal (IMC) de uma pessoa utilizando a linguagem de programação Java.
 
 Tecnologias Utilizadas
