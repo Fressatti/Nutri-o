@@ -35,12 +35,12 @@ Envie sua branch para o seu repositório (git push origin nova-funcionalidade)
 
 Crie um Pull Request
 
-##Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo  [LICENSE](https://www.mit.edu/~amini/LICENSE.md) para mais detalhes.
 
 
-Nota
+## Nota
 
 Este projeto foi desenvolvido com o objetivo de fornecer uma aproximação da TMB e do IMC. Ele não deve ser usado como um substituto para avaliações médicas ou nutricionais profissionais
 
