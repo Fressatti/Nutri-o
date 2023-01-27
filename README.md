@@ -20,12 +20,13 @@ Importe o projeto para sua IDE
 
 
 Execute a classe principal "Main.java"
-Contribuições
+
+## Contribuições
 
 Contribuições são sempre bem-vindas! Para contribuir, siga estes passos:
 
-
 Faça o fork do repositório
+
 Crie sua branch para as alterações (git checkout -b nova-funcionalidade)
 
 Faça o commit das suas alterações (git commit -m 'Adicionando nova funcionalidade')
@@ -34,7 +35,7 @@ Envie sua branch para o seu repositório (git push origin nova-funcionalidade)
 
 Crie um Pull Request
 
-Licença
+##Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo  [LICENSE](https://www.mit.edu/~amini/LICENSE.md) para mais detalhes.
 
